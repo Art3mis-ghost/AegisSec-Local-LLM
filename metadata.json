@@ -1,0 +1,6 @@
+{
+  "name": "AegisSec Local LLM & Air-Gapped Cyber RAG Agent",
+  "description": "Privacy-first offline LLM workstation, local vector database, autonomous web research agent, secure proxy sandboxing, and hardware monitoring for ethical hacking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
